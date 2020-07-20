@@ -12,11 +12,10 @@ body {
     background: #f0fff0;
   }
 
-  
-#Online-Courses{
+  .container-sm{
     text-align: center;
+    margin: 50px 50px;
 }
-
 
 
 
